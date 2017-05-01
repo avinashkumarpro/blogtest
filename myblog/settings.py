@@ -25,7 +25,7 @@ SECRET_KEY = 'kgx-eq_!zdvcx2_$g+ez)=fmlg@67^^4s$vnry2_q0i)ug775)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
